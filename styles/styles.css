@@ -620,6 +620,7 @@ section {
 
 /*Independed components*/
 .btn-con {
+  padding: 2px;
   display: flex;
   align-self: flex-start;
 }
